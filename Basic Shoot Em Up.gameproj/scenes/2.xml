@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id866558">
+<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id781812">
   <layers>
-    <layer id="id810123">
+    <layer id="id433223">
       <actors>
-        <actor id="id378308" prototype="id989498">
+        <actor id="id366184" prototype="id591440">
           <attributes>
             <point id="position">
-              <real id="x">241</real>
-              <real id="y">158.5</real>
+              <real id="x">239</real>
+              <real id="y">207.5</real>
             </point>
-            <size id="size">
-              <real id="width">480</real>
-              <real id="height">320</real>
-            </size>
-            <angle id="rotation">0</angle>
-          </attributes>
-          <aspects>
-            <graphics>
-              <attributes />
-            </graphics>
-            <motion />
-            <physics>
-              <attributes />
-            </physics>
-          </aspects>
-        </actor>
-        <actor id="id687400" prototype="id781630">
-          <attributes>
-            <point id="position">
-              <real id="x">233.5</real>
-              <real id="y">87</real>
-            </point>
-            <size id="size">
-              <real id="width">75</real>
-              <real id="height">50</real>
-            </size>
-            <angle id="rotation">0</angle>
-            <image id="image">ship</image>
           </attributes>
           <aspects>
             <graphics>
@@ -51,21 +23,23 @@
             </physics>
           </aspects>
         </actor>
-        <actor id="id738065" prototype="id685082">
+        <actor id="id315793" prototype="id289207">
           <attributes>
             <point id="position">
-              <real id="x">737.5</real>
-              <real id="y">139</real>
+              <real id="x">240</real>
+              <real id="y">82</real>
             </point>
             <size id="size">
-              <real id="width">512</real>
-              <real id="height">256</real>
+              <real id="width">100</real>
+              <real id="height">45</real>
             </size>
-            <angle id="rotation">0</angle>
           </attributes>
           <aspects>
             <graphics>
-              <attributes />
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
             </graphics>
             <motion />
             <physics>
@@ -81,7 +55,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">Aerial Combat Scene</text>
+    <text id="name">Victory</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">480</real>
@@ -110,7 +84,7 @@
       </size>
       <size id="trackingArea">
         <real id="width">400</real>
-        <real id="height">260</real>
+        <real id="height">240</real>
       </size>
       <real id="rotation">0</real>
     </rect>

@@ -18,6 +18,7 @@
     <table id="id454764" name="Purchases">Purchases</table>
     <integer id="id247766" name="Player Health">100</integer>
     <integer id="id684882" name="Boss Health">100</integer>
+    <boolean id="id195308" name="Boss Alive">true</boolean>
   </attributes>
   <tags>template, tutorial, shmup</tags>
   <resolutionIndependence>0</resolutionIndependence>
@@ -43,6 +44,7 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <actor id="id781630" />
     <actor id="id685082" />
     <actor id="id989498" />
+    <actor id="id833001" />
   </prototypes>
   <plugins>
     <attributes id="kiip">
@@ -57,7 +59,7 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <attributes id="playhaven" />
   </plugins>
   <scenes>
-    <scene id="id781812" />
     <scene id="id866558" />
+    <scene id="id781812" />
   </scenes>
 </game>
