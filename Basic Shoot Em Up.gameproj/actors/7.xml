@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<actor id="id981838" PGFVersion="0.19" GSCVersion="0.10.4">
+<actor id="id751213" PGFVersion="0.19" GSCVersion="0.10.4">
   <attributes>
-    <text id="name">small explosion</text>
+    <text id="name">big explosion</text>
     <real id="time">0</real>
     <point id="position">
       <real id="x">0</real>
       <real id="y">0</real>
     </point>
     <size id="size">
-      <real id="width">128</real>
-      <real id="height">128</real>
+      <real id="width">256</real>
+      <real id="height">256</real>
     </size>
     <angle id="rotation">0</angle>
     <color id="color">
@@ -18,7 +18,7 @@
       <real id="blue">1</real>
       <real id="alpha">1</real>
     </color>
-    <image id="image">boom00</image>
+    <image id="image" />
     <text id="tags" />
     <boolean id="preloadArt">true</boolean>
   </attributes>
@@ -46,7 +46,7 @@
         <boolean id="restoreActorImage">false</boolean>
       </attributes>
     </behavior>
-    <behavior id="id977365" class="TimerBehavior" enabled="true">
+    <behavior id="id813273" class="TimerBehavior" enabled="true">
       <attributes>
         <text id="name">Timer</text>
         <text id="bundleName">Timer.behavior</text>
@@ -55,7 +55,7 @@
         <boolean id="runToCompletion">false</boolean>
       </attributes>
       <behaviors>
-        <behavior id="id380082" class="DestroyAction" enabled="true">
+        <behavior id="id503441" class="DestroyAction" enabled="true">
           <attributes>
             <text id="name">Destroy</text>
             <text id="bundleName">Destroy.behavior</text>
