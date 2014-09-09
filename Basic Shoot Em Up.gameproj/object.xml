@@ -61,6 +61,6 @@ http://gamesalad.com/wiki/tutorials:basic_shoot_em_up</instructions>
     <integer id="id247766" name="Player Health">100</integer>
     <integer id="id684882" name="Boss Health">100</integer>
     <boolean id="id195308" name="Boss Alive">true</boolean>
-    <integer id="id834196" name="Mini Health">50</integer>
+    <integer id="id834196" name="Mini Health">100</integer>
   </attributes>
 </game>
