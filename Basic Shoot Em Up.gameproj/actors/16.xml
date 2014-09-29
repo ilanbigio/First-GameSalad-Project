@@ -150,7 +150,7 @@
             <text id="prototypeKey">id151461</text>
             <angle id="direction">0</angle>
             <index id="directionSpace">0</index>
-            <real id="x">0.0</real>
+            <real id="x">0</real>
             <real id="y">-50</real>
             <index id="positionSpace">0</index>
             <index id="layerOrder">0</index>
@@ -236,20 +236,12 @@
             <index id="layerOrder">0</index>
           </attributes>
         </behavior>
-        <behavior id="id614021" class="ChangeAttributeAction" enabled="true">
+        <behavior id="id720067" class="ChangeAttributeAction" enabled="true">
           <attributes>
             <text id="name">Change Attribute</text>
             <text id="bundleName">ChangeAttribute.behavior</text>
-            <text id="targetAttribute">game.attributes.id148203</text>
-            <text id="RHS">false</text>
-          </attributes>
-        </behavior>
-        <behavior id="id252182" class="ChangeSceneAction" enabled="true">
-          <attributes>
-            <text id="name">Change Scene</text>
-            <text id="bundleName">ChangeScene.behavior</text>
-            <text id="sceneKey">id781812</text>
-            <boolean id="enableAdvertisement">false</boolean>
+            <text id="targetAttribute">game.attributes.id378621</text>
+            <text id="RHS">true</text>
           </attributes>
         </behavior>
       </behaviors>

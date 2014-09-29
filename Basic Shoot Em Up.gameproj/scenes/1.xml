@@ -28,6 +28,32 @@
             </physics>
           </aspects>
         </actor>
+        <actor id="id871754" prototype="id146838">
+          <attributes>
+            <point id="position">
+              <real id="x">430</real>
+              <real id="y">404</real>
+            </point>
+            <size id="size">
+              <real id="width">93</real>
+              <real id="height">166</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <enumeration id="horizontalWrap">0</enumeration>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
         <actor id="id687400" prototype="id781630">
           <attributes>
             <point id="position">

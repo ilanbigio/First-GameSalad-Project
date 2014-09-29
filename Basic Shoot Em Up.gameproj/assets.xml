@@ -84,6 +84,15 @@
     <image name="sunset">
       <file name="sunset.png" size="72578" />
     </image>
+    <image name="Military 1 Stand">
+      <file name="Military 1 Stand.png" size="1104" />
+    </image>
+    <image name="Military 1 Gun">
+      <file name="Military 1 Gun.png" size="1190" />
+    </image>
+    <image name="Bullet">
+      <file name="Bullet.png" size="146" />
+    </image>
   </images>
   <behaviors />
 </assets>
